@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewdinata)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://myreadme.vercel.app/api/embed/matthewdinata?panels=toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/matthewdinata)
 
